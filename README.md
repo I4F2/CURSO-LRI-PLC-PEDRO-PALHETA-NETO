@@ -1,4 +1,2 @@
-# LRI---PLC---I4F2
-Curso de Robótica Avançada 1
-
-add pedro gostoso
+# CAPACITAÇÃO AVANÇADA EM ROBÓTICA INDUSTRIAL - Pedro Palheta Neto
+## Programação em CLP
