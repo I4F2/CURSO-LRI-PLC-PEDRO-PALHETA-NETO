@@ -3,6 +3,6 @@
 
 
 Links:
-- [Curso CLP Mitsubishi](https://mitsubishielectric.eadplataforma.app/courses)
+- [Cursos CLP Mitsubishi](https://mitsubishielectric.eadplataforma.app/courses)
 
 Manuais: 
